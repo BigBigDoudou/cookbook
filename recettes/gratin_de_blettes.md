@@ -1,6 +1,6 @@
 # Gratin de blettes
 
-Ingrédients
+Ingrédients :
 
 * `10` branches de blettes
 * `20g` de beurre
