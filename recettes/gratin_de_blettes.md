@@ -1,6 +1,8 @@
 # Gratin de blettes
 
-Ingrédients :
+---
+
+### Ingrédients
 
 * `10` branches de blettes
 * `20g` de beurre
@@ -13,6 +15,8 @@ Ingrédients :
 * poivre
 
 ---
+
+### Recette
 
 Faire revenir les blettes dans une grande casserole ou un fait-tout avec un peu d'huile (tournesol ou olive).
 
@@ -28,4 +32,6 @@ Mettre au four pendant 20 minutes. Rajouter un peu de lait. Remettre au four pen
 
 ---
 
-Recette originale : [Gratin de cardons de Mémé](https://www.marmiton.org/recettes/recette_gratin-de-cardons-de-meme_87601.aspx)
+### Sources
+
+* [Gratin de cardons de Mémé](https://www.marmiton.org/recettes/recette_gratin-de-cardons-de-meme_87601.aspx)

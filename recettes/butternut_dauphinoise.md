@@ -1,7 +1,19 @@
 # Butternut dauphinoise
 
+---
+
+### Ingrédients
+
 > ...
 
 ---
 
-Recette originale : [Butternut Dauphinoise](https://www.bbcgoodfood.com/recipes/butternut-dauphinoise)
+### Recette
+
+> ...
+
+---
+
+### Sources
+
+* [Butternut Dauphinoise](https://www.bbcgoodfood.com/recipes/butternut-dauphinoise)

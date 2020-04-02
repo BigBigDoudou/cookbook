@@ -1,6 +1,8 @@
 # Bechamel
 
-Ingrédients
+---
+
+### Ingrédients
 
 * `20g` de beurre
 * `3cap` de farine
@@ -10,6 +12,8 @@ Ingrédients
 * poivre
 
 ---
+
+### Recette
 
 Faire fondre le beurre à feu doux.
 

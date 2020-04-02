@@ -1,6 +1,8 @@
 # Betterave et chèvre
 
-Ingrédients :
+---
+
+### Ingrédients
 
 * `1` betterave
 * `1` pomme type Cortland
@@ -17,6 +19,8 @@ Ingrédients :
 
 ---
 
+### Recette
+
 Hacher la betterave et la pomme en petits cubes.
 
 Faire une huile à base d'huile d'olive, de vinaigre de Xérès et de moutarde.
@@ -31,4 +35,6 @@ Servir la salade et le chèvre côte à côte.
 
 ---
 
-Recette originale : [Tartare végétarien de betteraves rouges au fromage de chèvre](https://www.marmiton.org/recettes/recette_tartare-vegetarien-de-betteraves-rouges-au-fromage-de-chevre_31529.aspx)
+### Sources
+
+* [Tartare végétarien de betteraves rouges au fromage de chèvre](https://www.marmiton.org/recettes/recette_tartare-vegetarien-de-betteraves-rouges-au-fromage-de-chevre_31529.aspx)
