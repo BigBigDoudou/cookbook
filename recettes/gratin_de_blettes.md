@@ -32,6 +32,14 @@ Mettre au four pendant 20 minutes. Rajouter un peu de lait. Remettre au four pen
 
 ---
 
+### Commentaires
+
+Fonctionne très bien avec du chou-fleur à la place des blettes.
+
+À tester avec des cardons.
+
+---
+
 ### Sources
 
 * [Gratin de cardons de Mémé](https://www.marmiton.org/recettes/recette_gratin-de-cardons-de-meme_87601.aspx)
