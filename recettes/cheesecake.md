@@ -4,12 +4,12 @@
 
 ### Ingrédients
 
-##### Pâte
+#### Pâte
 * `250g` de biscuits sablés (*speculoos*)
 * `60g` de beurre
 * `25g` de sucre semoule
 
-##### Garniture
+#### Garniture
 * `600g` de fromage frais (*philadelphia*)
 * `350g` de sucre semoule
 * `4cas` de crème liquide
@@ -23,7 +23,7 @@
 
 Préchauffer le four à 200°C.
 
-##### Pâte
+#### Pâte
 
 Ecraser les biscuits à l'aide d'un rouleau à pâtisserie.
 
@@ -37,7 +37,7 @@ Poser le papier-cuisson au fond.
 
 Etaler la pâte, bien tasser (1 à 1,5 cm d'épaisseur).
 
-##### Garniture
+#### Garniture
 
 Mélanger le fromage la crème et le sucre.
 
@@ -47,7 +47,7 @@ Battre les blancs en neige et les incorporer au mélange.
 
 Verser la garniture sur le fond de pâte.
 
-##### Cuisson
+#### Cuisson
 
 Enfourner et faire cuire pendant 15 minutes.
 
