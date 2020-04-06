@@ -4,7 +4,7 @@
 
 * [Betterave et chèvre](./recettes/betterave_et_chevre.md)
 * [Butternut dauphinoise](./recettes/butternut_dauphinoise.md)
-* [Céleri branche pôélé](./recettes/celeri_branche_pôélé.md)
+* [Céleri branche pôélé](./recettes/celeri_branche_peole.md)
 * [Cheesecake](./recettes/cheesecake.md)
 * [Flan de courgettes](./recettes/flan_de_courgettes.md)
 * [Gâteau moelleux au citron](./recettes/gateau_moelleux_au_citron.md)
