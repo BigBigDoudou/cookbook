@@ -4,18 +4,18 @@
 
 ### Ingrédients
 
-* `1cas` d'huile d'olive
-* `1` oignon
-* `2` gousses d'ail
-* `2cas` de canelle
-* `1cas` de clous de girofle moulus
-* `1cas` de muscade
 * `2` patates douce (`400g`)
 * `2` carottes (`200g`)
 * `400g` de potiron
 * `1` pomme
+* `1` oignon
+* `2` gousses d'ail
 * `1` litre de bouillon de légumes
-* `1cas` d'etrait de vanille
+* `2cas` de canelle
+* `1cas` de clous de girofle moulus
+* `1cas` de muscade
+* `1cas` d'extrait de vanille
+* `1cas` d'huile d'olive
 * `30g` de beurre
 * sel
 * poivre
