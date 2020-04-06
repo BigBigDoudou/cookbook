@@ -24,7 +24,7 @@ Mettre le bouillon, le céleri et le beurre coupé en morceaux dans une sauteuse
 
 Ajouter la crème, remuer et réchauffer l'ensemble.
 
-Retirer du feu, parsemer de coriandre et mélanger. Verser dans un plat creux bien chaud.
+Retirer du feu, parsemer de coriandre et mélanger. Verser dans un plat creux bien chaud. Servir chaud.
 
 ---
 
