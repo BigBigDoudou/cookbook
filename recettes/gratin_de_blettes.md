@@ -6,7 +6,7 @@
 
 * `10` branches de blettes
 * `20g` de beurre
-* `3cap` de farine
+* `3cas` de farine
 * `70cl` de lait
 * `50g` de parmesan
 * `50g` d'emmental
