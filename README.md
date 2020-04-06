@@ -9,8 +9,8 @@
 * [Flan de courgettes](./recettes/flan_de_courgettes.md)
 * [Gâteau moelleux au citron](./recettes/gateau_moelleux_au_citron.md)
 * [Gratin de blettes](./recettes/gratin_de_blettes.md)
-* [Velouté de panais](./recettes/deloute_de_panais.md)
 * [Soupe de potiron, patate douce et carotte](./recettes/soupe_potiron_patate_douce_carotte.md)
+* [Tarte à la citrouille](./recettes/tarte_citrouille.md)
 * [Velouté de panais](./recettes/deloute_de_panais.md)
 
 ### Support
