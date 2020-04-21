@@ -49,6 +49,8 @@ Verser la garniture sur le fond de pâte.
 
 #### Cuisson
 
+[//]: # (FIXME: indicate temperature)
+
 Enfourner et faire cuire pendant 15 minutes.
 
 Eteindre le four et laisser cuire dans le four chaud pendant environ 1 heure.
