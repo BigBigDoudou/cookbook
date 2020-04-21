@@ -67,4 +67,4 @@ Le flan peut être trop aqueux à cause du bain-marie. Tester d'y ajouter de la 
 
 ### Sources
 
-* "*Flan d'aubergines et son coulis de tomates*", La santé dans votre assiette, édition Somogy, 2016 (page 14)
+* "*Flan d'aubergines et son coulis de tomates*", La santé dans votre assiette, collectif, éditions Somogy, 2016 (page 14)
