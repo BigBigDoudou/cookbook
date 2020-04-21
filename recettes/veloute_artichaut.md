@@ -22,7 +22,7 @@ En parallèle, préparer une [bechamel](../support/bechamel.md).
 
 Récupérer la chaire sur les artichauts (le coeur et sur les feuilles) et la mixer.
 
-Or du feu, mélanger la purée d'artichaut et la béchamel puis délayer la préparation dans `500cl` d'eau.
+Or du feu, mélanger la purée d'artichaut et la béchamel puis délayer la préparation en ajoutant de l'eau au fur-et-à-mesure, jusqu'à l'obtention d'une texture onctueuse.
 
 Remettre à feu doux et laisser mijoter pendant 10 minutes.
 
