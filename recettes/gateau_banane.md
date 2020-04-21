@@ -10,9 +10,9 @@
 * `1` citron
 * `4` oeufs
 * `125g` de beurre
-* `1 verre` de sucre roux :warning:
-* `1.5 verre` de farine :warning:
-* `1 poignée` de raisins secs :warning:
+* `1 verre` de sucre roux
+* `1.5 verre` de farine
+* `1 poignée` de raisins secs
 * `1 sachet` de levure chimique
 * sel
 
