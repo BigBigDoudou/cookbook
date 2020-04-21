@@ -2,6 +2,7 @@
 
 ### Recettes
 
+* [Artichauts poivrade](./recettes/artichauts_poivrade.md)
 * [Betterave et chèvre](./recettes/betterave_et_chevre.md)
 * [Butternut dauphinoise](./recettes/butternut_dauphinoise.md)
 * [Céleri branche pôélé](./recettes/celeri_branche_poele.md)
