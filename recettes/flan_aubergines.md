@@ -2,14 +2,10 @@
 
 ---
 
-### Ustensiles spécifiques
-
-* mixeur plongeant
-* moule à cake
-
 ### Ingrédients
 
-Pour le flan :
+**Le flan**
+
 * `600g` d'aubergines (3)
 * `4` oeufs
 * `1` gousse d'ail
@@ -17,7 +13,8 @@ Pour le flan :
 * `20cl` de crème frâiche
 * `10` olives noires denoyautées
 
-Pour le coulis :
+**Le coulis**
+
 * `3` tomates coeur de boeuf
 * `1` branche de persil frais
 * `1` branche de basilic frais
