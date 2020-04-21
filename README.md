@@ -3,6 +3,7 @@
 ### Recettes
 
 * [Artichauts poivrade](./recettes/artichauts_poivrade.md)
+* [Avocats panés](./recettes/avocats_panes.md)
 * [Betterave et chèvre](./recettes/betterave_et_chevre.md)
 * [Butternut dauphinoise](./recettes/butternut_dauphinoise.md)
 * [Céleri branche pôélé](./recettes/celeri_branche_poele.md)
@@ -13,12 +14,18 @@
 * [Gâteau moelleux au citron](./recettes/gateau_moelleux_citron.md)
 * [Gratin de blettes](./recettes/gratin_blettes.md)
 * [Soupe de potiron, patate douce et carotte](./recettes/soupe_potiron_patate_douce_carotte.md)
+* [Salade de navets aux câpres et à la mozzarella](./recettes/salade_navets_capres_mozzarella.md)
 * [Tarte à la citrouille](./recettes/tarte_citrouille.md)
+* [Tarte aux asperges](./recettes/tarte_asperges.md)
 * [Velouté d'artichaut](./recettes/veloute_artichaut.md)
 * [Velouté de panais](./recettes/veloute_panais.md)
 
 ### Support
 
 * [Bechamel](./support/bechamel.md)
+* [Chapati](./support/chapati.md)
+* [Chutney de raisins secs](./support/chutney_raisins_secs.md)
+* [Galettes d'avoine](./support/galettes_avoine.md)
 * [Pâte brisée](./support/pate_brisee.md)
 * [Pesto de pistache](./support/pesto_pistache.md)
+* [Sauce à la Grecque](./support/sauce_grecque.md)
