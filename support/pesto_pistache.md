@@ -6,7 +6,7 @@
 
 * `75g` de pistaches décortiquées non salées
 * `7` cuillères à soupe d'huile d'olive
-* `1/2caf` de sel
+* `1/2cac` de sel
 * `15` grains de poivre blanc
 
 ---

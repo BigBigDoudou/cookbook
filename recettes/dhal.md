@@ -9,10 +9,10 @@
 * `3` pommes de terre
 * `1` piment frais
 * `1` citron
-* `1caf` de cumin
-* `1caf` de curcuma
-* `1caf` de gingembre
-* `1/2caf` de piment de Cayenne
+* `1cac` de cumin
+* `1cac` de curcuma
+* `1cac` de gingembre
+* `1/2cac` de piment de Cayenne
 * `4cas` d'huile d'olive
 
 ---

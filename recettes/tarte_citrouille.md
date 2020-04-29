@@ -9,9 +9,9 @@
 * `170g` de sucre de canne
 * `2` oeufs moyens
 * `140ml` de crème liquide entière
-* `1caf` de cannelle en poudre
-* `1caf` d’épices à gâteaux (cannelle, muscade et girofle)
-* `1caf` de gingembre en poudre
+* `1cac` de cannelle en poudre
+* `1cac` d’épices à gâteaux (cannelle, muscade et girofle)
+* `1cac` de gingembre en poudre
 * noix de muscade
 
 
