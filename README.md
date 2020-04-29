@@ -24,7 +24,7 @@
 ### Support
 
 * [Bechamel](./support/bechamel.md)
-* [Chapati](./support/chapati.md)
+* [Chapatis](./support/chapatis.md)
 * [Chutney de raisins secs](./support/chutney_raisins_secs.md)
 * [Galettes d'avoine](./support/galettes_avoine.md)
 * [Pâte à pizza](./support/pate_pizza.md)
