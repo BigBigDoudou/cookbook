@@ -36,4 +36,4 @@ Pour faciliter le mixage des artichauts, ajouter un peu d'eau.
 
 ### Sources
 
-* "*Velouté d'artichaut*", Ma cuisine végétarienne pour tous les jours, Garance Leureux, éditions La plage, 2017 (page 83)
+* "*Velouté d'artichaut*", [Ma cuisine végétarienne pour tous les jours](https://www.laplage.fr/catalogue/ma-cuisine-vegetarienne-pour-tous-les-jours-garance-leureux-2/), Garance Leureux, éditions La plage, 2017 (page 83)

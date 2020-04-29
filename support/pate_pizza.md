@@ -31,4 +31,4 @@ Retravailler la pâte puis l'étaler le plus possible.
 
 ### Sources
 
-* "*Pâte à pain pour la pizza*", Ma cuisine végétarienne pour tous les jours, Garance Leureux, éditions La plage, 2017 (page 165)
+* "*Pâte à pain pour la pizza*", [Ma cuisine végétarienne pour tous les jours](https://www.laplage.fr/catalogue/ma-cuisine-vegetarienne-pour-tous-les-jours-garance-leureux-2/), Garance Leureux, éditions La plage, 2017 (page 165)
