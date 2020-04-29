@@ -24,6 +24,8 @@
 
 ### Recette
 
+> ...en cours de traduction
+
 In a saucepan, heat the oil, and fry the onion until translucent. Add the garlic and fry until turning golden. Add the cinnamon and allspice and cook until fragrant.
 
 Add the sweet potato, carrot, and pumpkin and fry for another few minutes.

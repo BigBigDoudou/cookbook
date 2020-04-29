@@ -18,6 +18,8 @@
 
 ### Recette
 
+> ...en cours de traduction
+
 Put the cream, milk, bay, a sprig of thyme, the garlic and ¼ tsp freshly grated nutmeg in a saucepan, and bring to the boil. Take the pan off the heat and leave to infuse for 10 mins. Heat oven to 180C/160C fan/gas 4.
 
 Grease a large baking dish with the butter, then layer up the butternut squash, adding seasoning and a few thyme leaves as you go. Pour over the infused cream, leaving the bay and thyme on the top.

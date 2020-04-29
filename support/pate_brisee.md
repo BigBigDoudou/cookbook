@@ -4,13 +4,13 @@
 
 ### Ingrédients
 
-> ...
+> ...en cours
 
 ---
 
 ### Recette
 
-> ...
+> ...en cours
 
 ---
 
