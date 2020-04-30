@@ -5,8 +5,8 @@
 ### Ingrédients
 
 * `175g` de farine
-* `1/2cac` de levure de boulanger
-* `1/2cac` de sucre
+* `½cac` de levure de boulanger
+* `½cac` de sucre
 * `1dl` d'eau tiède
 * `1cas` d'huile d'olive
 * `3 pincées` de sel

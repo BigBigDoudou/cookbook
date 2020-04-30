@@ -4,13 +4,27 @@
 
 ### Ingrédients
 
-> ...en cours
+* `100g` de raisins secs
+* `1cac` de gingembre
+* `1cac` de cumin
+* `¼cac` de piment de Cayenne
+* huile d'olive
 
 ---
 
 ### Recette
 
-> ...en cours
+Faire tremper les raisins pendant 30 minutes.
+
+Les egoutter.
+
+Les passer au mixeur jusqu'à obtenir une pâte.
+
+Dans une poêle, faire frire l'huile avec les épices.
+
+Ajouter la purée de raisin et cuire pendant 5 minutes.
+
+Servir froid.
 
 ---
 

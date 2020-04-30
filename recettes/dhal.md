@@ -12,7 +12,7 @@
 * `1cac` de cumin
 * `1cac` de curcuma
 * `1cac` de gingembre
-* `1/2cac` de piment de Cayenne
+* `½cac` de piment de Cayenne
 * `4cas` d'huile d'olive
 
 ---
