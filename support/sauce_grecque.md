@@ -4,13 +4,26 @@
 
 ### Ingrédients
 
-> ...en cours
+* `1` yaourt battu
+* `1` petit concombre
+* `1` gousse d'ail
+* `3` feuilles de menthe fraîche
+* `2cas` d'huile d'olive
+* sel
 
 ---
 
 ### Recette
 
-> ...en cours
+Râper le concombre.
+
+Ecraser l'ail.
+
+Hâcher la menthe.
+
+Mélanger tous les ingrédients.
+
+Servir bien frais.
 
 ---
 
