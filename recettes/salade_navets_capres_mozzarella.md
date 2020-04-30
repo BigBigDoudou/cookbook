@@ -4,13 +4,33 @@
 
 ### Ingrédients
 
-> ...en cours
+* `4` navets
+* `2cas` de câptres
+* `1` mozarrella
+* `1cac` de moutarde
+* `1cac` de coriandre
+* vinaigre de Xérès
+* huile d'olive
+* sel
+* poivre
 
 ---
 
 ### Recette
 
-> ...en cours
+Couper les navets en fines lamelles.
+
+Faire une vinaigrette avec la moutarde, le vinaigre, l'huile et la coriandre.
+
+Faire cuire les navets à la vapeur jusqu'à ce qu'ils soient tendres.
+
+Les arroser de vinaigrette lorsqu'ils sont encore chaud.
+
+Couper la mozzarella en fines rondelles.
+
+Ajouter la mozzarella et les câpres lorsque les navets ont refroidis.
+
+Servir tiède ou froid.
 
 ---
 
