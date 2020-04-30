@@ -4,13 +4,41 @@
 
 ### Ingrédients
 
-> ...en cours
+* `150g` de flocons ou de son d'avoine
+* `1` oeuf
+* `1` carotte
+* `1cac` de cumin
+* `1` verre de lait
+* sel
+* poivre
 
 ---
 
 ### Recette
 
-> ...en cours
+Râper la carotte.
+
+Battre l'oeuf et le lait ensemble.
+
+Y faire tremper l'avoine pendant 5 minutes.
+
+Ajouter la carotte et les épices, saler et poivrer.
+
+Huiler et faire chauffer une poêle.
+
+Quand la poêle est bien chaude, déposer des cuillerées de pâte.
+
+Faire frire les galettes sur les deux face.
+
+Servir chaud ou froid.
+
+---
+
+### Commentaires
+
+Les carottes peuvent être remplacées par de l'oignon, du poireau...
+
+Les épices peuvent être modifiées selon l'usage des galettes.
 
 ---
 
