@@ -21,7 +21,6 @@
 
 ### Recette
 
-
 Huilez légèrement les asperges.
 
 Réserver les têtes et faire cuire les queues au four.
