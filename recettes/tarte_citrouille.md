@@ -14,7 +14,6 @@
 * `1cac` de gingembre en poudre
 * noix de muscade
 
-
 ---
 
 ### Recette
