@@ -18,13 +18,23 @@
 
 ### Recette
 
-> ...en cours de traduction
+Dans une casserole, portez à ébullition la crème, le lait, le laurier, le thym, l'ail et une pincée de muscade fraiche.
 
-Put the cream, milk, bay, a sprig of thyme, the garlic and ¼ tsp freshly grated nutmeg in a saucepan, and bring to the boil. Take the pan off the heat and leave to infuse for 10 mins. Heat oven to 180C/160C fan/gas 4.
+Retirez du feu et laissez infuser 10 minutes.
 
-Grease a large baking dish with the butter, then layer up the butternut squash, adding seasoning and a few thyme leaves as you go. Pour over the infused cream, leaving the bay and thyme on the top.
+Préchauffez le four à 180C°.
 
-Cover the dish with foil and bake for 30 mins. Uncover, press the squash as far under the level of the liquid as you can, then scatter with the cheese. Bake, uncovered, for 30 mins more until the butternut is tender and the whole dish is bubbling and golden. Let stand for 10 mins or so before serving.
+Beurrez un grand plat, puis disposez le butternut tranché en couches, en asaisonnant et en ajoutant du thym au fur et à mesure.
+
+Versez dans le plat la crème infusée, et laissez les feuilles de laurier et de thym sur le dessus.
+
+Couvrez le plat de papier d'aluminium et faites cuire au four 30 minutes.
+
+Retirez l'aluminium, pressez le butternut autant que possible en dessous du liquide, puis recouvrez de fromage.
+
+Enfournez de nouveau et faites cuire à découvert 30 minutes supplémentaires, jusqu'à ce que le butternut soit tendre et que le plat soit doré et bouillonant.
+
+Laissez refroidir 10 minutes avant de servir.
 
 ---
 
