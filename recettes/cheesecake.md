@@ -17,15 +17,15 @@
 
 #### Nappage noix de pecan (optionnel)
 
-* `220g`de vergeoise brune
-* `30g`de fécule de maïs
-* `1cc`de sel
-* `4`jaunes d'oeuf
-* `220g`de sirop d'érable
-* `120ml`de crème liquide tiède
-* `4cs`de beurre froid
-* `1cc`de whiskey
-* `250g`de noix de pecans hachées et grillées
+* `220g` de vergeoise brune
+* `30g` de fécule de maïs
+* `1cc` de sel
+* `4` jaunes d'oeuf
+* `220g` de sirop d'érable
+* `120ml` de crème liquide tiède
+* `4cs` de beurre froid
+* `1cc` de whiskey
+* `250g` de noix de pecans hachées et grillées
 * Quelques noix de pecans entières pour décorer
 
 ---
