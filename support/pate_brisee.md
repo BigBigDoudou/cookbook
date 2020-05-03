@@ -19,7 +19,7 @@ Mélanger la farine et le sel dans un plat.
 
 Ajouter le beurre puis l'incorporer à la farine en pétrissant rapidement et légèrement du bout des doigts. 
 
-Incorporer rapidement l'eau et travailler la âte pendant 5 minutes.
+Incorporer rapidement l'eau et travailler la pâte pendant 5 minutes.
 
 #### Cuisson à blanc
 
