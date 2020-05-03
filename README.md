@@ -20,7 +20,7 @@
 * [Velouté d'artichaut](./recettes/veloute_artichaut.md)
 * [Velouté de panais](./recettes/veloute_panais.md)
 
-### Support
+### Bases
 
 * [Bechamel](./support/bechamel.md)
 * [Chapatis](./support/chapatis.md)

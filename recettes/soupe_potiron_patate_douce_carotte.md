@@ -24,15 +24,23 @@
 
 ### Recette
 
-> ...en cours de traduction
+Dans une casserole, chauffez l'huile et faites revenir les oignons jusqu'à ce qu'ils soient transparents.
 
-In a saucepan, heat the oil, and fry the onion until translucent. Add the garlic and fry until turning golden. Add the cinnamon and allspice and cook until fragrant.
+Ajoutez l'ail et faites revenir jusqu'à obtenir une coloration dorée.
 
-Add the sweet potato, carrot, and pumpkin and fry for another few minutes.
+Ajoutez la cannelle, les clous de girofle et la muscade et faites revenir jusqu'à ce que le mélange dégage un parfum prononcé.
 
-Add the apple, stock and vanilla essence. Season with pepper and salt. Stir, cover with a lid and simmer for 20 minutes until the ingredients are soft.
+Ajoutez les patate douce, les carottes et le potiron et faites revenir encore quelques minutes.
 
-Once cooked add the butter, then allow to cool a little and blitz the soup using a stick blender directly in the cooker pot, or transfer to a blender or food processor and whizz until silky smooth. Check the seasoning and add a little more vanilla if required – you want a hint rather than a definite flavour. Add more stock or water to thin.
+Ajoutez la pomme, le bouillon et l'extrait de vanille.
+
+Salez et poivrez.
+
+Remuez, couvrez et laissez mijoter 20 minutes, jusqu'à ce que les ingrédients soient ramollis.
+
+Une fois le mélange cuit ajoutez le beurre, puis laissez refroidir et mixez la soupe.
+
+Vérifiez l'assaisonnement et ajoutez un peu d'extrait de vanille à votre convenance. Ajoutez davantage de bouillon ou de l'eau si la soupe est trop épaisse.
 
 ---
 
