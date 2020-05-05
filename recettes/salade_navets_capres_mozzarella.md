@@ -5,7 +5,7 @@
 ### Ingrédients
 
 * `4` navets
-* `2cas` de câptres
+* `2cas` de câpres
 * `1` mozarrella
 * `1cac` de moutarde
 * `1cac` de coriandre
