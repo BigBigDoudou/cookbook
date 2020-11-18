@@ -7,6 +7,7 @@
 * [Butternut dauphinoise](./recettes/butternut_dauphinoise.md)
 * [Céleri branche pôélé](./recettes/celeri_branche_poele.md)
 * [Cheesecake](./recettes/cheesecake.md)
+* [Chili Sin Carne](./recettes/chili_sin_carne.md)
 * [Dhal](./recettes/dhal.md)
 * [Flan d'aubergines](./recettes/flan_aubergines.md)
 * [Flan de courgettes](./recettes/flan_courgettes.md)
