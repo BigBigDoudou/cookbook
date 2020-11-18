@@ -1,4 +1,4 @@
-# Tarte à la courgette
+# Tarte à la courgette et au chèvre
 
 ---
 
