@@ -17,6 +17,7 @@
 * [Soupe de potiron, patate douce et carotte](./recettes/soupe_potiron_patate_douce_carotte.md)
 * [Salade de navets aux câpres et à la mozzarella](./recettes/salade_navets_capres_mozzarella.md)
 * [Tarte à la citrouille](./recettes/tarte_citrouille.md)
+* [Tarte à la courgette](./recettes/tarte_courgette.md)
 * [Tarte aux asperges](./recettes/tarte_asperges.md)
 * [Velouté d'artichaut](./recettes/veloute_artichaut.md)
 * [Velouté de panais](./recettes/veloute_panais.md)
