@@ -1,5 +1,12 @@
 # Gâteau moelleux au citron
 
+| | |
+|:---|:---|
+| Saison | - |
+| Type | Dessert |
+| Conservation | Réfrigérateur |
+
+
 ---
 
 ### Ingrédients

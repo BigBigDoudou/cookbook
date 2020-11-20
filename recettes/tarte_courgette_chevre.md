@@ -1,5 +1,13 @@
 # Tarte à la courgette et au chèvre
 
+| | |
+|:---|:---|
+| Saison | Mai à septembre |
+| Type | Plat principal |
+| Protéines | Oui |
+| Crudités | Non |
+| Conservation | Réfrigérateur/Congélateur |
+
 ---
 
 ### Ingrédients

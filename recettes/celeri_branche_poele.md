@@ -1,5 +1,13 @@
 # Céleri branche pôélé
 
+| | |
+|:---|:---|
+| Saison | Juillet à mars |
+| Type | Accompagnement |
+| Protéines | Non |
+| Crudités | Non |
+| Conservation | Réfrigérateur |
+
 ---
 
 ### Ingrédients

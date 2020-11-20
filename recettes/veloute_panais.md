@@ -1,5 +1,13 @@
 # Velouté de panais
 
+| | |
+|:---|:---|
+| Saison | Octobre à février |
+| Type | Plat principal |
+| Protéines | Non |
+| Crudités | Non |
+| Conservation | Réfrigérateur/Congélateur |
+
 ---
 
 ### Ingrédients

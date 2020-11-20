@@ -1,5 +1,13 @@
 # Butternut dauphinoise
 
+| | |
+|:---|:---|
+| Saison | Septembre à février |
+| Type | Plat principal |
+| Protéines | Oui |
+| Crudités | Non |
+| Conservation | Réfrigérateur/Congélateur |
+
 ---
 
 ### Ingrédients

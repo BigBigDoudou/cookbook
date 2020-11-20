@@ -1,5 +1,13 @@
 # Flan de courgettes
 
+| | |
+|:---|:---|
+| Saison | Mai à septembre |
+| Type | Plat principal |
+| Protéines | Oui |
+| Crudités | Non |
+| Conservation | Réfrigérateur |
+
 ---
 
 ### Ingrédients

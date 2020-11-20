@@ -1,5 +1,14 @@
 # Tarte aux asperges
 
+| | |
+|:---|:---|
+| Saison | Avril à juin |
+| Type | Plat principal |
+| Protéines | Non |
+| Crudités | Non |
+| Conservation | Réfrigérateur/Congélateur |
+
+
 ---
 
 ### Ingrédients

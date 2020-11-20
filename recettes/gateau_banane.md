@@ -1,5 +1,11 @@
 # Gâteau à la banane
 
+| | |
+|:---|:---|
+| Saison | Octobre à janvier |
+| Type | Dessert |
+| Conservation | Réfrigérateur |
+
 ---
 
 ### Ingrédients

@@ -1,5 +1,13 @@
 # Flan d'aubergines
 
+| | |
+|:---|:---|
+| Saison | Juin à septembre |
+| Type | Plat principal |
+| Protéines | Oui |
+| Crudités | Non |
+| Conservation | Réfrigérateur |
+
 ---
 
 ### Ingrédients

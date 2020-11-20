@@ -1,5 +1,13 @@
 # Velouté d'artichaut
 
+| | |
+|:---|:---|
+| Saison | Juin à septembre |
+| Type | Plat principal |
+| Protéines | Non |
+| Crudités | Non |
+| Conservation | Réfrigérateur/Congélateur |
+
 ---
 
 ### Ingrédients

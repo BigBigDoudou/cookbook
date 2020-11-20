@@ -1,5 +1,13 @@
 # Betterave et chèvre
 
+| | |
+|:---|:---|
+| Saison | Mai à octobre |
+| Type | Entrée |
+| Protéines | Oui |
+| Crudités | Oui |
+| Conservation | - |
+
 ---
 
 ### Ingrédients

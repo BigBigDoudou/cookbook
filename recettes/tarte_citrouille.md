@@ -1,5 +1,11 @@
 # Tarte citrouille
 
+| | |
+|:---|:---|
+| Saison | Octobre à janvier |
+| Type | Dessert |
+| Conservation | Réfrigérateur |
+
 ---
 
 ### Ingrédients

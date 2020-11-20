@@ -1,5 +1,13 @@
 # Salade de navets aux câpres et à la mozzarella
 
+| | |
+|:---|:---|
+| Saison | Octobre à mai |
+| Type | Entrée |
+| Protéines | Oui |
+| Crudités | Non |
+| Conservation | Réfrigérateur |
+
 ---
 
 ### Ingrédients

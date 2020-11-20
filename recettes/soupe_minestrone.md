@@ -1,7 +1,12 @@
+> En cours de rédaction...
 
-# Soupe minestrone
-
----
+| | |
+|:---|:---|
+| Saison | Juillet à septembre |
+| Type | Plat principal |
+| Protéines | Non |
+| Crudités | Non |
+| Conservation | Réfrigérateur |
 
 ### Ingrédients
 

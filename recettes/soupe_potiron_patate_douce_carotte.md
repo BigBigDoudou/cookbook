@@ -1,5 +1,13 @@
 # Soupe de potiron, patate douce et carotte
 
+| | |
+|:---|:---|
+| Saison | Octobre à janvier |
+| Type | Plat principal |
+| Protéines | Non |
+| Crudités | Non |
+| Conservation | Réfrigérateur/Congélateur |
+
 ---
 
 ### Ingrédients

@@ -1,5 +1,11 @@
 # Cheesecake
 
+| | |
+|:---|:---|
+| Saison | - |
+| Type | Dessert |
+| Conservation | Réfrigérateur |
+
 ---
 
 ### Ingrédients

@@ -1,5 +1,13 @@
 # Gâteau au riz et aux épinards
 
+| | |
+|:---|:---|
+| Saison | Septembre à juin |
+| Type | Plat principal |
+| Protéines | Oui |
+| Crudités | Non |
+| Conservation | Réfrigérateur |
+
 ---
 
 ### Ingrédients

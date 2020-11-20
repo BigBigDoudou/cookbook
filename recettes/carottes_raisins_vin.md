@@ -1,5 +1,13 @@
 # Carottes aux raisins secs et au vin rouge
 
+| | |
+|:---|:---|
+| Saison | Août à mars |
+| Type | Accompagnement |
+| Protéines | Non |
+| Crudités | Oui |
+| Conservation | Réfrigérateur |
+
 ---
 
 ### Ingrédients

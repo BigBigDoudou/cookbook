@@ -1,5 +1,13 @@
 # Chili Sin Carne
 
+| | |
+|:---|:---|
+| Saison | - |
+| Type | Plat principal |
+| Protéines | Oui |
+| Crudités | Non |
+| Conservation | Réfrigérateur/Congélateur |
+
 ---
 
 ### Ingrédients
