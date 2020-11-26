@@ -38,16 +38,16 @@
 * [Gâteau moelleux au citron](./recettes/gateau_moelleux_citron.md)
 * [Tarte à la citrouille](./recettes/tarte_citrouille.md)
 
-### Bases, sauces...
+### Base, sauce...
 
-* [Bechamel](./support/bechamel.md)
-* [Chapatis](./support/chapatis.md)
-* [Chutney de raisins secs](./support/chutney_raisins_secs.md)
-* [Galettes d'avoine](./support/galettes_avoine.md)
-* [Pâte à pizza](./support/pate_pizza.md)
-* [Pâte brisée](./support/pate_brisee.md)
-* [Pesto de pistache](./support/pesto_pistache.md)
-* [Sauce à la Grecque](./support/sauce_grecque.md)
+* [Bechamel](./recettes/bechamel.md)
+* [Chapatis](./recettes/chapatis.md)
+* [Chutney de raisins secs](./recettes/chutney_raisins_secs.md)
+* [Galettes d'avoine](./recettes/galettes_avoine.md)
+* [Pâte à pizza](./recettes/pate_pizza.md)
+* [Pâte brisée](./recettes/pate_brisee.md)
+* [Pesto de pistache](./recettes/pesto_pistache.md)
+* [Sauce à la Grecque](./recettes/sauce_grecque.md)
 
 ---
 

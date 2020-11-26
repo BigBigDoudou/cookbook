@@ -26,7 +26,7 @@
 
 Faire cuire les artichauts à la vapeur.
 
-En parallèle, préparer une [bechamel](../support/bechamel.md).
+En parallèle, préparer une [bechamel](../recettes/bechamel.md).
 
 Récupérer la chaire sur les artichauts (le coeur et sur les feuilles) et la mixer.
 

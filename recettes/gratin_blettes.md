@@ -30,7 +30,7 @@ Faire revenir les blettes dans une grande casserole ou un fait-tout avec un peu 
 
 Lorsque les blettes sont légèrement jaunies, les faire cuire en bouillon jusqu'à ce qu'elles soient tendre.
 
-En parallèle, faire une [bechamel](../support/bechamel.md).
+En parallèle, faire une [bechamel](../recettes/bechamel.md).
 
 Egoutter les blettes et les mettre dans un plate à gratin. Verser la bechamel et ajouter le parmesan puis mélanger le tout.
 

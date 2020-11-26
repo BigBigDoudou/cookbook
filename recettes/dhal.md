@@ -43,7 +43,7 @@ Laisser mijoter 30 minutes.
 
 Avant de servir, arroser de jus de citron.
 
-Servir accompagné de [chapatis](../support/chapatis.md).
+Servir accompagné de [chapatis](../recettes/chapatis.md).
 
 ---
 

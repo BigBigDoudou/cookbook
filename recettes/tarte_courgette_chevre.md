@@ -32,7 +32,7 @@ Faire revenir les courgettes dans de l'huilde d'olive, saler et poivrer.
 
 Préchauffer le four à 200°C.
 
-Pendant ce temps, faire une [pâte brisée](../support/pate_brisee.md).
+Pendant ce temps, faire une [pâte brisée](../recettes/pate_brisee.md).
 
 Ranger dessus les tronçons de courgettes.
 

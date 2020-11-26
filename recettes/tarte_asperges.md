@@ -34,7 +34,7 @@ Huilez légèrement les asperges.
 
 Réserver les têtes et faire cuire les queues au four.
 
-Pendant ce temps, faire une [pâte brisée](../support/pate_brisee.md).
+Pendant ce temps, faire une [pâte brisée](../recettes/pate_brisee.md).
 
 Après 15 minutes de cuisson des queues d'asperges, ajouter les têtes.
 
