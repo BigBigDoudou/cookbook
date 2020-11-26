@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | Juin à novembre |
 | Type | Plat principal |
-| Protéines | Oui |
-| Crudités | Non |
+| Protéines | Beurre, fromage |
+| Crudités | - |
 | Conservation | Réfrigérateur/Congélateur |
 
 ---

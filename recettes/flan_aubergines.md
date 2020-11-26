@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | Juin à septembre |
 | Type | Plat principal |
-| Protéines | Oui |
-| Crudités | Non |
+| Protéines | Oeufs, crème |
+| Crudités | - |
 | Conservation | Réfrigérateur |
 
 ---

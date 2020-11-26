@@ -6,8 +6,8 @@
 |:---|:---|
 | Saison | Mai à septembre |
 | Type | Plat principal |
-| Protéines | Oui |
-| Crudités | Oui |
+| Protéines | Lentilles, fromage |
+| Crudités | ... |
 | Conservation | Régrigérateur |
 
 ---

@@ -6,8 +6,8 @@
 |:---|:---|
 | Saison | Juin à août |
 | Type | Entrée |
-| Protéines | Oui |
-| Crudités | Oui |
+| Protéines | Fromage |
+| Crudités | Tomates, pastèque |
 | Conservation | Régrigérateur |
 
 ---

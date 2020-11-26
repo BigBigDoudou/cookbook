@@ -6,8 +6,8 @@
 |:---|:---|
 | Saison | Septembre à mars |
 | Type | Plat principal |
-| Protéines | Non |
-| Crudités | Non |
+| Protéines | - |
+| Crudités | - |
 | Conservation | Réfrigérateur |
 
 ---

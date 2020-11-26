@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | Mai à septembre |
 | Type | Plat principal |
-| Protéines | Oui |
-| Crudités | Non |
+| Protéines | Farine, beurre, fromage, oeufs |
+| Crudités | - |
 | Conservation | Réfrigérateur/Congélateur |
 
 ---

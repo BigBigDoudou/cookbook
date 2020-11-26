@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | Avril à juin |
 | Type | Plat principal |
-| Protéines | Non |
-| Crudités | Non |
+| Protéines | Farine, beurre |
+| Crudités | - |
 | Conservation | Réfrigérateur/Congélateur |
 
 

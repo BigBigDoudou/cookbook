@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | Septembre à juin |
 | Type | Plat principal |
-| Protéines | Oui |
-| Crudités | Non |
+| Protéines | Riz, beurre, fromage |
+| Crudités | - |
 | Conservation | Réfrigérateur |
 
 ---

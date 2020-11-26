@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | Août à mars |
 | Type | Accompagnement |
-| Protéines | Non |
-| Crudités | Oui |
+| Protéines | - |
+| Crudités | Carottes |
 | Conservation | Réfrigérateur |
 
 ---

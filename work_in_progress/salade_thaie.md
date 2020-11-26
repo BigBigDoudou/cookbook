@@ -6,8 +6,8 @@
 |:---|:---|
 | Saison | Juin à septembre |
 | Type | Entrée |
-| Protéines | Non |
-| Crudités | Oui |
+| Protéines | Riz |
+| Crudités | ... |
 | Conservation | Régrigérateur |
 
 ---

@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | Octobre à mai |
 | Type | Entrée |
-| Protéines | Oui |
-| Crudités | Non |
+| Protéines | Fromage |
+| Crudités | - |
 | Conservation | Réfrigérateur |
 
 ---

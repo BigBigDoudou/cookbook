@@ -6,8 +6,8 @@
 |:---|:---|
 | Saison | Juin à septembre |
 | Type | Plat principal |
-| Protéines | Oui |
-| Crudités | Oui |
+| Protéines | Farine, beurre |
+| Crudités | ... |
 | Conservation | Régrigérateur/Congélateur |
 
 ---

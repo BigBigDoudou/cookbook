@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | Juin à septembre |
 | Type | Plat principal |
-| Protéines | Non |
-| Crudités | Non |
+| Protéines | - |
+| Crudités | - |
 | Conservation | Réfrigérateur/Congélateur |
 
 ---

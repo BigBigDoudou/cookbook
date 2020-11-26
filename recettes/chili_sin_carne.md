@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | - |
 | Type | Plat principal |
-| Protéines | Oui |
-| Crudités | Non |
+| Protéines | Haricots rouges |
+| Crudités | - |
 | Conservation | Réfrigérateur/Congélateur |
 
 ---

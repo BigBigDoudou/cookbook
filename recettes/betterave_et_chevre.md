@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | Mai à octobre |
 | Type | Entrée |
-| Protéines | Oui |
-| Crudités | Oui |
+| Protéines | Fromage |
+| Crudités | Betterave, pomme |
 | Conservation | - |
 
 ---

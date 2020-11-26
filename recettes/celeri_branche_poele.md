@@ -4,8 +4,8 @@
 |:---|:---|
 | Saison | Juillet à mars |
 | Type | Accompagnement |
-| Protéines | Non |
-| Crudités | Non |
+| Protéines | - |
+| Crudités | - |
 | Conservation | Réfrigérateur |
 
 ---
