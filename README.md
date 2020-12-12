@@ -2,8 +2,8 @@
 
 ---
 
-| **RECETTES** | **TYPE** | **SAISON** | | |
-|:---|:---|:---|:---|:---|
+| **RECETTES** | **TYPE** | **SAISON** | |
+|:---|:---|:---|:---|
 | [Artichauts poivrade](./recettes/artichauts_poivrade.md) | Plat principal | Juin | Septembre |
 | [Bechamel](./recettes/bechamel.md) | Sauce | | | |
 | [Betterave et chèvre](./recettes/betterave_et_chevre.md) | Entrée | Mai | Octobre |
