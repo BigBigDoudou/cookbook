@@ -38,6 +38,7 @@
 | [Salades de lentilles aux crudités](./recettes/salade_lentilles_crudités.md) | Plat principal | | | | | • | • | • | • | • | | | |
 | [Salade de navets aux câpres et à la mozzarella](./recettes/salade_navets_capres_mozzarella.md) | Entrée | • | • | • | • | • | | | | | • | • | • |
 | [Sauce à la Grecque](./recettes/sauce_grecque.md) | Sauce | • | • | • | • | • | • | • | • | • | • | • | • |
+| [Seitan au caramel](./recettes/seitan_au_caramel.md) | Plat principal | • | • | • | | | | | • | • | • | • | • |
 | [Soupe de potiron, patate douce et carotte](./recettes/soupe_potiron_patate_douce_carotte.md) | Entrée ou plat principal | • | | | | | | | | | • | • | • |
 | [Tarte à la citrouille](./recettes/tarte_citrouille.md) | Dessert | • | | | | | | | | | • | • | • |
 | [Tarte à la courgette et au chèvre](./recettes/tarte_courgette_chevre.md) | Entrée ou plat principal | | | | | • | • | • | • | • | | | |
