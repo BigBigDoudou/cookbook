@@ -1,9 +1,5 @@
 # Livre de recettes
 
----
-
-| | | | | | | | | | | | |
-
 | **RECETTES** | **TYPE** | J | F | M | A | M | J | J | A | S | O | N | D |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
 | [Artichauts poivrade](./recettes/artichauts_poivrade.md) | Plat | | | | | | • | • | • | • | | | |
@@ -25,6 +21,7 @@
 | [Gâteau à la banane](./recettes/gateau_banane.md) | Dessert | • | | | | | | | | | • | • | • |
 | [Gâteau au riz et aux épinards](./recettes/gateau_riz_epinards.md) | Plat | • | • | • | • | • | • | | | • | • | • | • |
 | [Gâteau moelleux au citron](./recettes/gateau_moelleux_citron.md) | Dessert | • | • | • | • | • | • | • | • | • | • | • | • |
+| [Gnocchis de patates douces](./recettes/gnocchis_patates_douces.md) | Plat | • | • | • | • | • | • | • | • | • | • | • | • |
 | [Gratin de blettes](./recettes/gratin_blettes.md) | Plat | | | | | | • | • | • | • | • | • | |
 | [Paëlla végétarienne](./recettes/paella_vegetarienne.md) | Plat | | | | | | • | • | • | • | | | |
 | [Pâte à pizza](./recettes/pate_pizza.md) | Pâte, pain | • | • | • | • | • | • | • | • | • | • | • | • |
