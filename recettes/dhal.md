@@ -3,7 +3,7 @@
 | | |
 |:---|:---|
 | Saison | - |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | Lentilles |
 | Crudités | - |
 | Conservation | Réfrigérateur/Congélateur |

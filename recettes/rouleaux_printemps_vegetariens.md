@@ -3,7 +3,7 @@
 | | |
 |:---|:---|
 | Saison | Juin à septembre |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | Riz |
 | Crudités | Concombre, poivron, carotte |
 | Conservation | Régrigérateur |

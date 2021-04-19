@@ -3,7 +3,7 @@
 | | |
 |:---|:---|
 | Saison | Septembre à janvier |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | - |
 | Crudités | - |
 | Conservation | Réfrigérateur |

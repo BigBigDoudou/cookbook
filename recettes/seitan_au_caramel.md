@@ -3,7 +3,7 @@
 | | |
 |:---|:---|
 | Saison | Août à mars |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | Seitan |
 | Crudités | - |
 | Conservation | Réfrigérateur |

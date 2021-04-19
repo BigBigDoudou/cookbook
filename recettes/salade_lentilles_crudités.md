@@ -3,7 +3,7 @@
 | | |
 |:---|:---|
 | Saison | Mai à septembre |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | Lentilles |
 | Crudités | Carottes, concombre, tomates cerises |
 | Conservation | Régrigérateur |

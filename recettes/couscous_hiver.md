@@ -1,11 +1,9 @@
-# Croque-cake courgette, chèvre et tapenade
-
-> En cours de rédaction...
+# Couscous d'hiver
 
 | | |
 |:---|:---|
 | Saison | Octobre à mars |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | Pois chiches, semoule de blé |
 | Crudités | - |
 | Conservation | Réfrigérateur |

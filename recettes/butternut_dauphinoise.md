@@ -3,7 +3,7 @@
 | | |
 |:---|:---|
 | Saison | Septembre à février |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | Crème, fromage |
 | Crudités | - |
 | Conservation | Réfrigérateur/Congélateur |

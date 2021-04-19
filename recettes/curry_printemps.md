@@ -3,7 +3,7 @@
 | | |
 |:---|:---|
 | Saison | Avril à juin |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | - |
 | Crudités | - |
 | Conservation | Réfrigérateur |

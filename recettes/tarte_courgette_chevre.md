@@ -3,7 +3,7 @@
 | | |
 |:---|:---|
 | Saison | Mai à septembre |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | Farine, beurre, fromage, oeufs |
 | Crudités | - |
 | Conservation | Réfrigérateur/Congélateur |

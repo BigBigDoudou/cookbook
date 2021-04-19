@@ -5,7 +5,7 @@
 | | |
 |:---|:---|
 | Saison | - |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | Pois chiches |
 | Crudités | - |
 | Conservation | Réfrigérateur/Congélateur |

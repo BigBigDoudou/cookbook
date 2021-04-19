@@ -3,7 +3,7 @@
 | | |
 |:---|:---|
 | Saison | - |
-| Type | Plat principal |
+| Type | Plat |
 | Protéines | Haricots rouges |
 | Crudités | - |
 | Conservation | Réfrigérateur/Congélateur |
