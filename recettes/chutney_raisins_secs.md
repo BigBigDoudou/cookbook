@@ -7,7 +7,7 @@
 * `100g` de raisins secs
 * `1cac` de gingembre
 * `1cac` de cumin
-* `¼cac` de piment de Cayenne
+* `1/4cac` de piment de Cayenne
 * huile d'olive
 
 ---

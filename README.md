@@ -19,6 +19,7 @@
 | [Gâteau à la banane](./recettes/gateau_banane.md) | Dessert |  |  |  |  |  |  |  |  |  |  | ✓ | ✓ |
 | [Paëlla végétarienne](./recettes/paella_vegetarienne.md) | Plat |  |  |  |  |  | ✓ | ✓ | ✓ | ✓ |  |  |  |
 | [Flan de courgettes](./recettes/flan_courgettes.md) | Plat |  |  |  |  | ✓ | ✓ | ✓ | ✓ | ✓ |  |  |  |
+| [Curry rouge de pois chiches au poivron et brocoli](./recettes/curry_rouge.md) | Plat |  |  |  |  |  | ✓ | ✓ | ✓ | ✓ |  |  |  |
 | [Seitan au caramel](./recettes/seitan_au_caramel.md) | Plat | ✓ | ✓ |  |  |  |  |  |  | ✓ | ✓ | ✓ | ✓ |
 | [Curry de printemps](./recettes/curry_printemps.md) | Plat |  |  |  | ✓ | ✓ | ✓ |  |  |  |  |  |  |
 | [Crumble épinards-feta](./recettes/crumble_epinards_feta.md) | Plat | ✓ | ✓ | ✓ | ✓ | ✓ |  |  |  |  | ✓ | ✓ | ✓ |
