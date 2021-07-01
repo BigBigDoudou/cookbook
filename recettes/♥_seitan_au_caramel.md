@@ -1,4 +1,4 @@
-# Seitan au caramel
+# ♥ Seitan au caramel
 
 | | |
 |:---|:---|

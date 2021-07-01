@@ -19,7 +19,9 @@ task :readme do # rubocop:disable Metrics/BlockLength
       |#{Array.new(14) { ":---|" }.join}
     T
 
-    Dir.glob("recettes/*.md").sort.each do |file|
+    recipe_files = Dir.glob("recettes/*.md").sort.sort_by { |file_name| file_name.include?("♥") ? 0 : 1 }
+
+    recipe_files.each do |file|
       content = File.read(file)
 
       title = content.match(title_regex)&.[]("t") || "Sans titre"
