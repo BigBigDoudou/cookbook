@@ -2,7 +2,7 @@
 
 | | |
 |:---|:---|
-| Saison | Mois à mois |
+| Saison | Janvier à décembre |
 | Type | Plat |
 | Protéines | - |
 | Crudités | - |
@@ -12,17 +12,22 @@
 
 ### Ingrédients
 
-* xxx
-* xxx
+* `42` tomates
 
 ---
 
 ### Recette
 
-xxx
+-
+
+---
+
+### Commentaires
+
+-
 
 ---
 
 ### Sources
 
-* [xxx](xxx)
+* [Titre](url)

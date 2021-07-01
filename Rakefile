@@ -43,3 +43,22 @@ task :readme do # rubocop:disable Metrics/BlockLength
     end
   end
 end
+
+desc "Create a new recipe file"
+task :new do
+  require "active_support/core_ext/string/inflections"
+
+  ARGV.each { |a| task(a.to_sym) }
+
+  title = ARGV[1]
+
+  file_name = ActiveSupport::Inflector.parameterize(title, separator: "_")
+  file_name = file_name.tr("-", "_").gsub(/(?<![a-z])\w{1,2}(?![a-z])/, "_").gsub(/_{2,}/, "_")
+
+  File.open("wip/#{file_name}.md", "w") do |file|
+    file.write "# #{title}\n"
+    File.readlines("template.md").drop(1).each do |line|
+      file.write line
+    end
+  end
+end
