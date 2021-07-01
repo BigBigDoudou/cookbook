@@ -9,6 +9,7 @@
 | [Chapatis](./recettes/chapatis.md) | Autre | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [Cheesecake](./recettes/cheesecake.md) | Dessert | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [Chili Sin Carne](./recettes/chili_sin_carne.md) | Plat | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [Cocotte fenouil et orange](./recettes/cocotte_fenouil_orange.md) | Plat | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [Curry rouge de pois chiches au poivron et brocoli](./recettes/courgettes_confites_boulgour.md) | Plat |  |  |  |  |  | ✓ | ✓ | ✓ | ✓ |  |  |  |
 | [Couscous d'hiver](./recettes/couscous_hiver.md) | Plat | ✓ | ✓ |  |  |  |  |  |  |  |  | ✓ | ✓ |
 | [Crumble épinards-feta](./recettes/crumble_epinards_feta.md) | Plat | ✓ | ✓ | ✓ | ✓ | ✓ |  |  |  |  | ✓ | ✓ | ✓ |
