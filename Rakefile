@@ -19,7 +19,7 @@ task :readme do # rubocop:disable Metrics/BlockLength
       |#{Array.new(14) { ":---|" }.join}
     T
 
-    Dir.glob("recettes/*.md").each do |file|
+    Dir.glob("recettes/*.md").sort.each do |file|
       content = File.read(file)
 
       title = content.match(title_regex)&.[]("t") || "Sans titre"
