@@ -55,10 +55,14 @@ task :new do
   file_name = ActiveSupport::Inflector.parameterize(title, separator: "_")
   file_name = file_name.tr("-", "_").gsub(/(?<![a-z])\w{1,2}(?![a-z])/, "_").gsub(/_{2,}/, "_")
 
-  File.open("wip/#{file_name}.md", "w") do |file|
+  file_path = "wip/#{file_name}.md"
+
+  File.open(file_path, "w") do |file|
     file.write "# #{title}\n"
     File.readlines("template.md").drop(1).each do |line|
       file.write line
     end
   end
+
+  puts file_path
 end
