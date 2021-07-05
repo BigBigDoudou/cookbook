@@ -8,8 +8,9 @@
 | [♥ Salade de navets aux câpres et à la mozzarella](./recettes/♥_salade_navets_capres_mozzarella.md) | Entrée | ✓ | ✓ | ✓ | ✓ |  |  |  |  |  |  | ✓ | ✓ |
 | [♥ Salade de tomates, pastèque et feta](./recettes/♥_salade_tomate_pasteque_feta.md) | Entrée |  |  |  |  |  | ✓ | ✓ | ✓ |  |  |  |  |
 | [♥ Seitan au caramel](./recettes/♥_seitan_au_caramel.md) | Plat | ✓ | ✓ |  |  |  |  |  |  | ✓ | ✓ | ✓ | ✓ |
+| [Cheesecake](./recettes/cheesecake.md) | Dessert | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [Chili Sin Carne](./recettes/chili_sin_carne.md) | Plat | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [Cocotte fenouil et orange](./recettes/cocotte_fenouil_orange.md) | Plat | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| [Cocotte fenouil et orange](./recettes/cocotte_fenouil_orange.md) | Plat | ✓ | ✓ | ✓ |  |  |  |  |  |  |  |  |  |
 | [Curry rouge de pois chiches au poivron et brocoli](./recettes/courgettes_confites_boulgour.md) | Plat |  |  |  |  |  | ✓ | ✓ | ✓ | ✓ |  |  |  |
 | [Couscous d'hiver](./recettes/couscous_hiver.md) | Plat | ✓ | ✓ |  |  |  |  |  |  |  |  | ✓ | ✓ |
 | [Curry de printemps](./recettes/curry_printemps.md) | Plat |  |  |  | ✓ | ✓ | ✓ |  |  |  |  |  |  |
@@ -39,5 +40,5 @@
 | [Bechamel](./recettes/bechamel.md) | Autre | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [Betterave et chèvre](./recettes/betterave_chevre.md) | Entrée |  |  |  |  | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |  |  |
 | [Butternut dauphinoise](./recettes/butternut_dauphinoise.md) | Plat | ✓ |  |  |  |  |  |  |  |  | ✓ | ✓ | ✓ |
+| [Chakchouka](./recettes/chakchouka.md) | Plat |  |  |  |  |  | ✓ | ✓ | ✓ | ✓ |  |  |  |
 | [Chapatis](./recettes/chapatis.md) | Autre | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| [Cheesecake](./recettes/cheesecake.md) | Dessert | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |

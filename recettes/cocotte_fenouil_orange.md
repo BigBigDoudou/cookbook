@@ -2,7 +2,7 @@
 
 | | |
 |:---|:---|
-| Saison | Janvier à décembre |
+| Saison | Décembre à avril |
 | Type | Plat |
 | Protéines | - |
 | Crudités | - |
