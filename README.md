@@ -11,7 +11,7 @@
 | [Cheesecake](./recettes/cheesecake.md) | Dessert | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [Chili Sin Carne](./recettes/chili_sin_carne.md) | Plat | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | [Cocotte fenouil et orange](./recettes/cocotte_fenouil_orange.md) | Plat | ✓ | ✓ | ✓ |  |  |  |  |  |  |  |  |  |
-| [Curry rouge de pois chiches au poivron et brocoli](./recettes/courgettes_confites_boulgour.md) | Plat |  |  |  |  |  | ✓ | ✓ | ✓ | ✓ |  |  |  |
+| [Courgettes confites au boulgour](./recettes/courgettes_confites_boulgour.md) | Plat |  |  |  |  |  | ✓ | ✓ | ✓ | ✓ |  |  |  |
 | [Couscous d'hiver](./recettes/couscous_hiver.md) | Plat | ✓ | ✓ |  |  |  |  |  |  |  |  | ✓ | ✓ |
 | [Curry de printemps](./recettes/curry_printemps.md) | Plat |  |  |  | ✓ | ✓ | ✓ |  |  |  |  |  |  |
 | [Curry rouge de pois chiches au poivron et brocoli](./recettes/curry_rouge.md) | Plat |  |  |  |  |  | ✓ | ✓ | ✓ | ✓ |  |  |  |
